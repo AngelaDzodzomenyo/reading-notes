@@ -16,8 +16,12 @@ Thhis is some of the information i saw
   - Texts
     1. **bold**
     2. *italic*
-    3. #headers#
   - Lists
+    1. unordered
+      *apples*
+      *oranges*
+      *pears*
+    3. ordered
   - Images
   - Headers & Quotes
   - Code 
