@@ -22,6 +22,9 @@ Thhis is some of the information i saw
         * oranges
         * pears
     3. ordered
+        1. Beginning
+        2. Middle
+        3. End
   - Images
   - Headers & Quotes
   - Code 
