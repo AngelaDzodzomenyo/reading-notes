@@ -18,9 +18,9 @@ Thhis is some of the information i saw
     2. *italic*
   - Lists
     1. unordered
-      * apples
-      * oranges
-      * pears
+        * apples
+        * oranges
+        * pears
     3. ordered
   - Images
   - Headers & Quotes
