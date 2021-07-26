@@ -59,3 +59,11 @@ Who is the better superhero?
     
 
 
+
+### GitHub Video
+
+Github pages turns repositories into webpsites to showcase  portfolio, projects
+no databases to setup no servers to configure
+a lot of times you don't have to know HTML 
+Most direct path to create websitew for you and your projects
+Looks for web content on your projects
