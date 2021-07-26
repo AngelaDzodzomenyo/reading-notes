@@ -14,7 +14,8 @@ Thhis is some of the information i saw
 
 ## What are Examples of Markdown?
   - Texts
-    > 
+    1. **bold**
+    2. *italic*
   - Lists
   - Images
   - Headers & Quotes
