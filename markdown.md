@@ -16,7 +16,7 @@ Thhis is some of the information i saw
   - Texts
     1. **bold**
     2. *italic*
-    3. #headers# ##headers## ###headers###
+    3. #headers#
   - Lists
   - Images
   - Headers & Quotes
