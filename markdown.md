@@ -26,8 +26,7 @@ Thhis is some of the information i saw
         2. Middle
         3. End
   - Images
-      ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+    ![GitHub Logo](/images/logo.png)
   - Headers & Quotes
   - Code 
   - Extras
