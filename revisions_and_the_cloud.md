@@ -20,11 +20,11 @@
   **Definitions**
   >Snapshots - data saved in a filing system of *snapshots* of work when changes are saved(commit)
   >
-  >Local Operations - 
+  >Local Operations - works using local resources so time isn't wasted on retriving info from external server and work can be done offline
   >
-  >Tracking Changes
+  >Tracking Changes - every single change applied is tracked so easier to track down corruption or mistakes
   >
-  >Loss of Data
+  >Loss of Data - virtually impossible since at any moment you can retrieve earlier work free of damage or loss
   >
-  >States
+  >States - 
   
