@@ -72,4 +72,20 @@
     
     
 # WORKFLOW
+ 
+The local Git repository has three components:
 
+1. *Working Directory*: The actual files reside here.
+2. *Index*: The area used for staging
+3. *Head*: Points to the most recent commit
+
+ **LOCAL REPOSITORY STRUCTURE - UDEMY**
+![Local Repository Structure-Udemy](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+
+
+* After you edit a file, Git flags it as modified because of changes made after the previous commit.
+* You stage the modified file.
+* Then, you commit staged changes.
+
+ **THE LIFE CYCLE OF FILE STATUS - UDEMY**
+![The Life Cycle of File Status-Udemy](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
