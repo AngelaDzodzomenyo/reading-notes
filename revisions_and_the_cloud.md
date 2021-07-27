@@ -89,3 +89,21 @@ The local Git repository has three components:
 
  **THE LIFE CYCLE OF FILE STATUS - UDEMY**
 ![The Life Cycle of File Status-Udemy](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+
+#If You Want TO...#
+ 
+ **Check Files Status** 
+  > $ git status
+
+ **Track and Stage a New File**
+  > *git add filename* (track one)
+  > *$ git add ** (track all files)
+
+ **Committing a File**
+  > *$ git commit -m “made change x,y,z”*
+  
+ **Committing All Changes**
+  > *$ git commit -a*
+
+ **Pushing Changes**
+  > *$ git push origin master*
