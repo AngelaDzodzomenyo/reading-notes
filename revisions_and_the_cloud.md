@@ -92,7 +92,7 @@ The local Git repository has three components:
 
 
 
-# If You Want To#
+# **If You Want To...**
  
  **Check Files Status** 
   > $ git status
