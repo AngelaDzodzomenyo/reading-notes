@@ -90,7 +90,9 @@ The local Git repository has three components:
  **THE LIFE CYCLE OF FILE STATUS - UDEMY**
 ![The Life Cycle of File Status-Udemy](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
 
-#If You Want TO...#
+
+
+# If You Want To#
  
  **Check Files Status** 
   > $ git status
