@@ -1,4 +1,4 @@
--This is an unordered list
+
 # What is Markdown?
   > Is a unique form of text used in Github where
   > you control the format and display of your document when publishing content.
