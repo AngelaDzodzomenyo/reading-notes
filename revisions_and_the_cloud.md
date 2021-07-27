@@ -69,3 +69,7 @@
   > To clone a repository into a directory with another name of your choosing, use the following command format:
 
     * $ git clone https://github.com/test mydirectory
+    
+    
+# WORKFLOW
+
