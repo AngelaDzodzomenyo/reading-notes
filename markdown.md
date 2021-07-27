@@ -55,20 +55,30 @@ Who is the better superhero?
 
 ### GitHub Video
 
+(http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=2MsN8gpT6jY)
+
+**Some facts from video**
+
+>Github pages turns repositories into webpsites to showcase your portfolio, projects
+
+>no databases to setup no servers to configure
+
+>a lot of times you don't have to know HTML 
+
+>Most direct path to create websites for you and your projects
+
+>Looks for web content on your projects
+
+>Can create a site for yourself or your organization and adding content to its master branch
+
+>can drag and drop to upload
+
+>Can use Jekyll which is an opensource tool that can turn your plain text files into websites
+
+>GitHub automatically builds and deploys your site for you so you can focus on the **content** of your site 
 
 
-Github pages turns repositories into webpsites to showcase your portfolio, projects
-no databases to setup no servers to configure
-a lot of times you don't have to know HTML 
-Most direct path to create websites for you and your projects
-Looks for web content on your projects
-Can create a site for yourself or your organization and adding content to its master branch
-can drag and drop to upload
-Can use Jekyll which is an opensource tool that can turn your plain text files into websites
-GitHub automatically builds and deploys your site for you so you can focus on the **content** of your site 
 
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=2MsN8gpT6jY)
 
 
 
