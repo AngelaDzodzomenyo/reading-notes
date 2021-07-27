@@ -56,7 +56,6 @@ Who is the better superhero?
 ### GitHub Video
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=2MsN8gpT6jY)
 
 Github pages turns repositories into webpsites to showcase your portfolio, projects
 no databases to setup no servers to configure
@@ -69,8 +68,7 @@ Can use Jekyll which is an opensource tool that can turn your plain text files i
 GitHub automatically builds and deploys your site for you so you can focus on the **content** of your site 
 
 
-
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=2MsN8gpT6jY)
 
 
 
