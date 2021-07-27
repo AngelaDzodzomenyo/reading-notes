@@ -2,7 +2,7 @@
   .This acts a a time machine that drops various breadcrumbs or time capsles that you can travel to a revisit at any moment to make changes to your work. 
   
   .This allows for things like mistakes to be corrected, notes to be compared with a team 
-  
+------------------------------------------------------------------------------------------------------------------------------------------------  
   ## Different Types of Version Control 
   
    |**Local Version Control | Centralized Version Control | Distributed Version Control |
@@ -12,3 +12,19 @@
    | stores chages to file  |  stores all changes and files to server     | mirrored repositories
    |                        |  multiple access points     | forward and backward flow 
    |                        |                             | collaborative workflow
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+## WHAT IS GIT?
+  
+  **Definitions**
+  >Snapshots - data saved in a filing system of *snapshots* of work when changes are saved(commit)
+  >
+  >Local Operations - 
+  >
+  >Tracking Changes
+  >
+  >Loss of Data
+  >
+  >States
+  
