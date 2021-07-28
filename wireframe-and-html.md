@@ -70,9 +70,10 @@
    
    Lists
    
-    1. Unordered lists
-    2. Ordered lists
-    
+    1. Unordered lists - ul
+    2. Ordered lists -ol
+     
+     .within these lists are list item element = li 
     
    **Links**
      using **a** for anchor
