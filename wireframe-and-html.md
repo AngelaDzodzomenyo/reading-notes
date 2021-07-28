@@ -33,26 +33,26 @@
 
 # HTML BASICS
   
-   open tag <p>
-   closing tag </p>
+   open tag 
+   closing tag 
    element: open and closing tag and content in between
    content: text in between open and closing tags
    
-   Nesting Elements
+   **Nesting Elements**
     - put elements inside of other elements
       ex. emphasis word *very* <strong>very</strong>
 
-   Empty Elements
+   **Empty Elements**
    
-   Anatomy of an HTML document
+   **Anatomy of an HTML document**
    
-   Images
+   **Images**
    
-   Marking up text
+   **Marking up text**
     Headings 
     Paragraphs 
     Lists
     
-   Links
+   **Links**
    
    
