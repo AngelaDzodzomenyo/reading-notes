@@ -3,9 +3,9 @@
           
  ## 2 Types of wireframe
  
-   *Physical Hand-drawn sketch 
+  > *Physical Hand-drawn sketch* 
 
-   *Digital
+  > *Digital*
 
   
  you can define and plan the information hierarchy of their design for a website, app, or product
