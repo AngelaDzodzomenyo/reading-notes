@@ -28,7 +28,7 @@
     - don't distract user with too much info
 
 
- # HTML BASICS
+# HTML BASICS
   
    open tag <p>
    closing tag </p>
