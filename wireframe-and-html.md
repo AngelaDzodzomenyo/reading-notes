@@ -2,9 +2,10 @@
  Definition: Low fidelity sketch of a digital interface
           
  2 Types of wireframe
-  Physical Hand-drawn sketch
-  Digital
-  
+  | Physical Hand-drawn sketch |
+  ------------------------------
+  | Digital
+  ------------------------------
  you can define and plan the information hierarchy of their design for a website, app, or product
 
    ## 6 Steps to Wireframe
