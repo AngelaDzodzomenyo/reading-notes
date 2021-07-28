@@ -47,23 +47,18 @@
     - no closing image tag
     
    ## Anatomy of an HTML document
-    
-    <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <img src="images/firefox-icon.png" alt="My test image">
-  </body>
-</html>
-   
-   
+      
+      (image by mozilla.org)
+   ![anatomy of html document](https://user-images.githubusercontent.com/65520470/127260902-e457a061-cef5-40a7-8e14-b5b7725b8ddb.png)
+     
    **Images**
    
    **Marking up text**
     Headings 
+    
+       (image by mozilla.org)
+   ![headings](https://user-images.githubusercontent.com/65520470/127261695-2b27649d-66ef-4844-b1b7-cf666e56a518.png)
+
     Paragraphs 
     Lists
     
