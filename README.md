@@ -1,5 +1,5 @@
 # reading-notes
-Reading notes for Code Fellows.
+My reading notes for Code Fellows.
 
 ## Hello my name is Angela and this is my [GitHub](https://github.com/AngelaDzodzomenyo)
 ------------------------------------------------------
