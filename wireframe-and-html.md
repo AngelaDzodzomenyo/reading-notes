@@ -44,7 +44,7 @@
 
    **Empty Elements**
     - an element with no content
-     * example: <*img*>
+    - no closing image tag
     
    ## Anatomy of an HTML document
    
