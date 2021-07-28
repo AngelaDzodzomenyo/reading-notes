@@ -16,5 +16,5 @@ Reading notes for Code Fellows.
 
 ### Table of Contents
  * [What is Markdown?](https://angeladzodzomenyo.github.io/reading-notes/markdown)
- * [Coders Computer](
+ * [Coders Computer](https://angeladzodzomenyo.github.io/reading-notes/coder-computer)
  * [Revision and Discussion]
