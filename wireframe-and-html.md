@@ -70,12 +70,12 @@
    
    *Lists*
    
-    1. Unordered lists - ul
-    2. Ordered lists -ol
+    1. Unordered lists - < ul >
+    2. Ordered lists - < ol >
      
-     .within these lists are list item element = li 
+     .within these lists are list item element = < li >
     
    **Links**
    
-     using **a** for anchor
+     using < a > for anchor
    
