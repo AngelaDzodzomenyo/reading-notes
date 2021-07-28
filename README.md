@@ -10,3 +10,11 @@ Reading notes for Code Fellows.
   * Openness to change 
   * Holding myself accountable
   * Adapting to what comes my way
+
+
+-----------------------------------------------------------
+
+### Table of Contents
+ * [What is Markdown?](https://angeladzodzomenyo.github.io/reading-notes/markdown)
+ * [Coders Computer](
+ * [Revision and Discussion]
