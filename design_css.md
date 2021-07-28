@@ -27,6 +27,7 @@
     * Remember before the colon, we have property, after colon, the value.
 
 ## How To Add CSS
+
     * There are three ways of inserting a style sheet:
             > External CSS
             > Internal CSS
@@ -44,6 +45,7 @@
     
     2. *INTERNAL CSS*
         a. can be used if one single HTML page has a unique style
-        
+
         b. defined inside the  < style > element, inside the < head > section of a HTML page 
-                    
+
+[<==BACK](https://angeladzodzomenyo.github.io/reading-notes/) 
