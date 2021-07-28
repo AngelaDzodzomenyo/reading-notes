@@ -43,8 +43,10 @@
       ex. emphasis word *very* <strong>very</strong>
 
    **Empty Elements**
-   
-   **Anatomy of an HTML document**
+    - an element with no content
+     * example: <*img*>
+    
+   ## Anatomy of an HTML document
    
    **Images**
    
