@@ -109,3 +109,5 @@ The local Git repository has three components:
 
  **Pushing Changes**
   > *$ git push origin master*
+
+[<==Back](https://angeladzodzomenyo.github.io/reading-notes/)
