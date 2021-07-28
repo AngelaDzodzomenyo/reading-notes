@@ -55,20 +55,20 @@
    **Images**
    
    **Marking up text**
-    Headings 
+    *Headings*
     
        
    ![headings](https://user-images.githubusercontent.com/65520470/127261695-2b27649d-66ef-4844-b1b7-cf666e56a518.png)
          (image by mozilla.org)
          
          
-   Paragraphs 
+   *Paragraphs* 
         
    ![paragraph](https://user-images.githubusercontent.com/65520470/127261878-f0d4efc6-9c62-4c09-8dd3-c594dfaa272d.png)
         (image by mozilla.org)
         
    
-   Lists
+   *Lists*
    
     1. Unordered lists - ul
     2. Ordered lists -ol
@@ -76,5 +76,6 @@
      .within these lists are list item element = li 
     
    **Links**
+   
      using **a** for anchor
    
