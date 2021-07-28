@@ -52,3 +52,6 @@ A text editor is a software downloaded and installed that you will be able to ma
  -mv - move ex. mv(files names)(to location name)
  
  cd{space 2x) - will take you backward 
+ 
+ 
+ [<==Back](https://angeladzodzomenyo.github.io/reading-notes/)
