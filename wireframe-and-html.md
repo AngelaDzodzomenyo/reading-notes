@@ -48,18 +48,25 @@
     
    ## Anatomy of an HTML document
       
-      (image by mozilla.org)
+      
    ![anatomy of html document](https://user-images.githubusercontent.com/65520470/127260902-e457a061-cef5-40a7-8e14-b5b7725b8ddb.png)
-     
+         (image by mozilla.org)
+         
    **Images**
    
    **Marking up text**
     Headings 
     
-       (image by mozilla.org)
+       
    ![headings](https://user-images.githubusercontent.com/65520470/127261695-2b27649d-66ef-4844-b1b7-cf666e56a518.png)
-
+         (image by mozilla.org)
     Paragraphs 
+        
+   ![paragraph](https://user-images.githubusercontent.com/65520470/127261878-f0d4efc6-9c62-4c09-8dd3-c594dfaa272d.png)
+        (image by mozilla.org)
+        
+   
+        
     Lists
     
    **Links**
