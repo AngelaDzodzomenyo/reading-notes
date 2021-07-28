@@ -85,6 +85,11 @@
    ## Examples
       
        < h1 >
+       < header >
+       < footer >
+       < nav >
+       < section >
+       < summary >
     
  
    
