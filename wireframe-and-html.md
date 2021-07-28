@@ -37,4 +37,17 @@ How to Make Your Wireframe Good
     - put elements inside of other elements
       ex. emphasis word *very* <strong>very</strong>
 
-  
+   Empty Elements
+   
+   Anatomy of an HTML document
+   
+   Images
+   
+   Marking up text
+    Headings 
+    Paragraphs 
+    Lists
+    
+   Links
+   
+   
