@@ -7,7 +7,8 @@
   
  you can define and plan the information hierarchy of their design for a website, app, or product
 
-6 Steps to Wireframe
+   ## 6 Steps to Wireframe
+   
   1. Research
   2. Prepare your research for quick reference
   3. Make sure you have your user flow mapped out
@@ -15,7 +16,8 @@
   5. Add some detail and get testing
   6. Start turning your wireframes into prototypes
 
-How to Make Your Wireframe Good
+   ## How to Make Your Wireframe Good
+
   1. Clarity
      * wireframe needs to answer questions of what that site page is and does
      
