@@ -28,9 +28,11 @@ How to Make Your Wireframe Good
 
  # HTML BASICS
   
-           content
-  <p>My cat is very grumpy</p>
-    |                       |
-opening tag             closing tag
+   open tag <p>
+   closing tag </p>
+   element: open and closing tag and content in between
+   content: text in between open and closing tags
+   
+   
 
   
