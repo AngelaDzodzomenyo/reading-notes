@@ -19,7 +19,7 @@
    ## How to Make Your Wireframe Good
 
   1. Clarity
-     * wireframe needs to answer questions of what that site page is and does
+    * wireframe needs to answer questions of what that site page is and does
      
   2. Confidence
     * easy navigatible site, keeps user confident
