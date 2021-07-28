@@ -33,6 +33,8 @@ How to Make Your Wireframe Good
    element: open and closing tag and content in between
    content: text in between open and closing tags
    
-   
+   Nesting Elements
+    - put elements inside of other elements
+      ex. emphasis word *very* <strong>very</strong>
 
   
