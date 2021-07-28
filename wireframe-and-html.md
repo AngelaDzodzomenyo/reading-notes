@@ -3,7 +3,7 @@
           
  ## 2 Types of wireframe
  
-  > *Physical Hand-drawn sketch* 
+  > *Physical hand-drawn sketch* 
 
   > *Digital*
 
