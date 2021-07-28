@@ -78,5 +78,15 @@
    **Links**
    
      using < a > for anchor
+     
+# SEMANTICS
+   Definition: refers to the meaning of a piece of code 
+   
+   ## Examples
+      
+      * < h1 >
+    
+ 
    
 [<==Back](https://angeladzodzomenyo.github.io/reading-notes/)
+
