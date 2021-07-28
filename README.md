@@ -5,7 +5,7 @@ My reading notes for Code Fellows.
 ------------------------------------------------------
 
 ### Table of Contents
- * [Growth Mindset](
+ * [Growth Mindset](https://angeladzodzomenyo.github.io/reading-notes/growth-mindset)
  * [What is Markdown?](https://angeladzodzomenyo.github.io/reading-notes/markdown)
  * [Coders Computer](https://angeladzodzomenyo.github.io/reading-notes/coder-computer)
  * [Revision and Discussion](https://angeladzodzomenyo.github.io/reading-notes/revisions_and_the_cloud)
