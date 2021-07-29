@@ -24,3 +24,20 @@
     - all JS variables must be identified with unique names
     - these unique names are called identifiers
     - they can be short names (like x & y) or more descriptive names (age, sum, total, volume)
+
+    > They are case sensitive
+
+## Assignment Operator
+    - the equal (=) sign is an "assignment" operator, not an "equal to" operator
+        > the "equal to" operator is written like == in JS
+
+## JavaScript Data Types
+    - test values are called text strings
+    - strings are written inside double or single quotes. Numbers are written without quotes
+    - numbers in quotes will be treated like a text string
+## Declaring (Creating) JS Variables
+    - You declare a JS variable with the **var** keyword
+
+        > It is good practice to declare all variables at the begining of a script 
+
+
