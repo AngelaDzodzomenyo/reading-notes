@@ -48,4 +48,4 @@
 
         b. defined inside the  < style > element, inside the < head > section of a HTML page 
 
-[<==BACK](https://angeladzodzomenyo.github.io/reading-notes/) 
+[<==Back](https://angeladzodzomenyo.github.io/reading-notes/) 
