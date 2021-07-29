@@ -40,4 +40,4 @@
 
         > It is good practice to declare all variables at the begining of a script 
 
-
+[<==Back](https://angeladzodzomenyo.github.io/reading-notes/)
