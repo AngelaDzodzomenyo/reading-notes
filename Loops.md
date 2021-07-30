@@ -28,4 +28,6 @@
                 ex. while (condition) statement
             - if the condition becomes false, statement within the loop stops executing and control passes the staatement following the loop   
 
+
+
 [<Back>](https://angeladzodzomenyo.github.io/reading-notes/)
