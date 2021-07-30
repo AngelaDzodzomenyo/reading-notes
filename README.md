@@ -13,3 +13,4 @@ My reading notes for Code Fellows.
  * [What is CSS?](https://angeladzodzomenyo.github.io/reading-notes/design_css)
  * [Learning Javascript](https://angeladzodzomenyo.github.io/reading-notes/learning-javascript)
     1. [Programming with JavaScript](https://angeladzodzomenyo.github.io/reading-notes/JS_Programming)
+    2. [Loops](https://angeladzodzomenyo.github.io/reading-notes/Loops)
