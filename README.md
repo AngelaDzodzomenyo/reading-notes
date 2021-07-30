@@ -12,3 +12,4 @@ My reading notes for Code Fellows.
  * [Wireframe and HTML](https://angeladzodzomenyo.github.io/reading-notes/wireframe-and-html)
  * [What is CSS?](https://angeladzodzomenyo.github.io/reading-notes/design_css)
  * [Learning Javascript](https://angeladzodzomenyo.github.io/reading-notes/learning-javascript)
+    1. [Programming with JavaScript](https://angeladzodzomenyo.github.io/reading-notes/JS_Programming)
