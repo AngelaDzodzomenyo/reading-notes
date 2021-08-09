@@ -17,3 +17,4 @@
     . rarely see the <html>, <head>, or <body> elements
 
     * Advantages? Great for people who don't know how to write web pages. Some allow you to edit template files
+    
