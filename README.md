@@ -18,18 +18,18 @@ My reading notes for 102 and 201.
     2. [Loops](https://angeladzodzomenyo.github.io/reading-notes/Loops)
 
 ## Code 201 Reading Notes
-* Read: 01 - Introductory HTML and JavaScript
-* Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
-* Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
-* Read: 04 - HTML Links, CSS Layout, JS Functions
-* Read: 05 - HTML Images; CSS Color & Text
-* Read: 06 - JS Object Literals; The DOM
-* Read: 07 - HTML Tables; JS Constructor Functions
-* Read: 08 - More CSS Layout
-* Read: 09 - Forms and Events
-* Read: 10 - JS Debugging
-* Read: 11 - Assorted Topics
-* Read: 12 - Docs for the HTML
-* Read: 13 - Local Storage
-* Read: 14a - CSS Transforms, Transitions, and Animations
-   > Read: 14b - What Google Learned About Teams
+* Class: 01 - Introductory HTML and JavaScript
+* Class: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+* Class: 03 - HTML Lists, CSS Boxes, JS Control Flow
+* Class: 04 - HTML Links, CSS Layout, JS Functions
+* Class: 05 - HTML Images; CSS Color & Text
+* Class: 06 - JS Object Literals; The DOM
+* Class: 07 - HTML Tables; JS Constructor Functions
+* Class: 08 - More CSS Layout
+* Class: 09 - Forms and Events
+* Class: 10 - JS Debugging
+* Class: 11 - Assorted Topics
+* Class: 12 - Docs for the HTML
+* Class: 13 - Local Storage
+* Class: 14a - CSS Transforms, Transitions, and Animations
+   > Class: 14b - What Google Learned About Teams
