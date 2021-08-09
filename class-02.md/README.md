@@ -108,3 +108,5 @@
 ## Evaluating Conditions and Conditional Statements
 1. An expression is evaluated, which returns a value (pg. 149)
 2. A conditional statement says what to do in a given situation(pg. 149)
+
+<==[Back](https://angeladzodzomenyo.github.io/reading-notes/)
