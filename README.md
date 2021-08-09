@@ -29,8 +29,7 @@ My reading notes for 102 and 201.
 * Read: 09 - Forms and Events
 * Read: 10 - JS Debugging
 * Read: 11 - Assorted Topics
-* Read: 12 - Docs for the HTML <canvas> Element & Chart.js
+* Read: 12 - Docs for the HTML
 * Read: 13 - Local Storage
 * Read: 14a - CSS Transforms, Transitions, and Animations
    > Read: 14b - What Google Learned About Teams
-* 
