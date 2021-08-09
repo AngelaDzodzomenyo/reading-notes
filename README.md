@@ -4,9 +4,9 @@ My reading notes for 102 and 201.
 ## Hello my name is Angela and this is my [GitHub](https://github.com/AngelaDzodzomenyo)
 ------------------------------------------------------
 
-### Table of Contents
+# Table of Contents
 
-# Code 102 Reading Notes
+## Code 102 Reading Notes
  * [Growth Mindset](https://angeladzodzomenyo.github.io/reading-notes/growth-mindset)
  * [What is Markdown?](https://angeladzodzomenyo.github.io/reading-notes/markdown)
  * [Coders Computer](https://angeladzodzomenyo.github.io/reading-notes/coder-computer)
@@ -17,7 +17,7 @@ My reading notes for 102 and 201.
     1. [Programming with JavaScript](https://angeladzodzomenyo.github.io/reading-notes/JS_Programming)
     2. [Loops](https://angeladzodzomenyo.github.io/reading-notes/Loops)
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 * Read: 01 - Introductory HTML and JavaScript
 * Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 * Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
