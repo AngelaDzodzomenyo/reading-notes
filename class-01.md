@@ -24,27 +24,10 @@ HTML STRUCTURES
          - it is not visible to users
          - empty element so no closing tag
 
- # **KEY LOOP CONCEPTS**
-  1. Keywords
-    a. break - causes the termination of the loop and tells the interpreter to go onto the next statement of code outside the loop
-    b. continue - tells the interpreter to stopthe current iteration, and then update and check the condition again
+ # HTML 5 LAYOUT
+  > no longer using < div > and a class or id attribute to indicate the role of different structures on the webpage
 
-  2. Loops and Arrays
-    a. once the loop has run the right number of times, the loop stops
-
-  3. Performance Issues
-    a. infinite loop - if the condition never returns false
-
-  **FOR LOOPS**
-    1. often used to loop through the items in an array
-    2. use if you know how many times you want to run code 
-
-  **WHILE LOOPS**
-    1. don't know how many time the code should run
-    2. will run as long as the condition is true       
-
-
-
+  
 
 
 

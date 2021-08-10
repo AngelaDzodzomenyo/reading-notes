@@ -18,7 +18,7 @@ My reading notes for 102 and 201.
     2. [Loops](https://angeladzodzomenyo.github.io/reading-notes/Loops)
 
 ## Code 201 Reading Notes
-* Class: 01 - Introductory HTML and JavaScript
+* [Class: 01 - Introductory HTML and JavaScript](https://angeladzodzomenyo.github.io/reading-notes/class-01)
 * [Class: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://angeladzodzomenyo.github.io/reading-notes/class-02)
 * Class: 03 - HTML Lists, CSS Boxes, JS Control Flow
 * Class: 04 - HTML Links, CSS Layout, JS Functions
