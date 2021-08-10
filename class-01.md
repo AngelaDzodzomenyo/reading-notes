@@ -1,17 +1,17 @@
-HTML STRUCTURES
- (Links to an external site.)Definitions
+# HTML STRUCTURES
+ ## Definitions
 * elements: characters that live inside angled brackets 
 * tags: opening and closing tag
  (Links to an external site.)Examples of Code
-* <html></html> - anything between is code
-* <body></body> - between here should be shown inside the main browser
-* <h1></h1> - main heading
-* <p></p> - text appears between here
- (Links to an external site.)Attributes
-. provides additonal info about the contents of an element
+* < html > - anything between is code
+* < body > - between here should be shown inside the main browser
+* < h1 > - main heading
+* < p > - text appears between here
+ ## Attributes
+* provides additonal info about the contents of an element
     > ex. < p lang = "en-us" >Paragraph in English</P>
  (Links to an external site.)Content Manager Systeem
-. rarely see the <html>, <head>, or <body> elements
+* rarely see the <html>, <head>, or <body> elements
 
 * Advantages? Great for people who don't know how to write web pages. Some allow you to edit template files
 
@@ -27,7 +27,7 @@ HTML STRUCTURES
  # HTML 5 LAYOUT
   > no longer using < div > and a class or id attribute to indicate the role of different structures on the webpage
 
-  
+
 
 
 
