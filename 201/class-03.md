@@ -51,11 +51,22 @@ CSS - Boxes
 **______________________________________________________**
 # JAVASCRIPT 
   ## Arrays
+  * **Definition** : a special type of variable. It does't just store one value, it stores a list of values.
+
+  ## How an array is used?
+  
+  * consider using an array whenever you are working with a list or a set of values that are related to each other. 
+
+  ## How is an array created?
+
+  * **Array Literal** : prefered method
+  * **Array Constructor** : uses the new keyword *Array();
+  
+  ## Values in Arrays
+
+  > **!QUICK FACT!** > Values in an array are accessed as if they are in a numbered list. **It is important to know that the numbering of this list starts with zero (NOT ONE)**
 
 
 
 
-
-
-
-<==[BACK](https://angeladzodzomenyo.github.io/reading-notes/)
+<==[Back](https://angeladzodzomenyo.github.io/reading-notes/)
