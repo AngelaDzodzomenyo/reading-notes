@@ -66,7 +66,16 @@ CSS - Boxes
 
   > **!QUICK FACT!** > Values in an array are accessed as if they are in a numbered list. **It is important to know that the numbering of this list starts with zero (NOT ONE)**
 
+## LOOPS 
+  ### IF...ELSE STATEMENTS
+  * checks a condition
+  * If resolves to true, first code block is executed
+  * If the condtion resolves to false the second code blockis run instead
 
+  ### SWITCH STATEMENTS
+  * starts with a variable called the switch value
+  * each case tells a possible value for the cariable and the code that should run if the variable matchs that value.
+  
 
 
 <==[Back](https://angeladzodzomenyo.github.io/reading-notes/)
