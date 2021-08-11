@@ -1,28 +1,36 @@
  # HTML & CSS 
   ## Lists
   ## Ordered Lists 
-    * ex. < ol > ordered lists are numbered 
+  * ex.
+        
+        < ol > ordered lists are numbered 
             < li >steak </ li >
             < li >chesse </ li >
             < li > bread </ li >
-          </ol >
+        < /ol >
 ------------------------------------------------------
-    > looks like: 
-                  1. steak
-                  2. cheese
-                  3. bread
+  * rendered: 
+    
+  >
+    1. steak
+    2. cheese
+    3. eggs
+                  
 
   ## Unordered list
-    * ex. < ul > unordered list are bullet points
+  * ex. 
+  
+        < ul > unordered list are bullet points
             < li >steak </ li >
             < li >chesse </ li >
             < li > bread </ li >
-          </ ul >
+        </ ul >
 --------------------------------------------------------
-    > looks like : 
-                  * steak
-                  * cheese
-                  * bread  
+  * rendered: 
+
+        * steak
+        * cheese
+        * bread  
 
   ## Definition Lists
     * < dl > usually paired with < dt > and  < dd >
@@ -49,8 +57,11 @@ CSS - Boxes
         b. Margin
         c. Pudding
 **______________________________________________________**
+
 # JAVASCRIPT 
+
   ## Arrays
+  
   * **Definition** : a special type of variable. It does't just store one value, it stores a list of values.
 
   ## How an array is used?
