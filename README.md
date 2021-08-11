@@ -20,7 +20,7 @@ My reading notes for 102 and 201.
 ## Code 201 Reading Notes
 * [Class: 01 - Introductory HTML and JavaScript](https://angeladzodzomenyo.github.io/reading-notes/201/class-01)
 * [Class: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://angeladzodzomenyo.github.io/reading-notes/201/class-02)
-* Class: 03 - [HTML Lists, CSS Boxes, JS Control Flow](https://angeladzodzomenyo.github.io/reading-notes/201/class-03)
+* [Class: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://angeladzodzomenyo.github.io/reading-notes/201/class-03)
 * Class: 04 - HTML Links, CSS Layout, JS Functions
 * Class: 05 - HTML Images; CSS Color & Text
 * Class: 06 - JS Object Literals; The DOM
