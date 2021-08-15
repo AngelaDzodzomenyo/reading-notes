@@ -70,7 +70,7 @@
 
     1. lossless
       * you can reconstruct back to the original bc nothing was lost during compression
-      
+
     2. lossy
       * cannot do the same here bc data loss is irreversable
 
