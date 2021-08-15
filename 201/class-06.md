@@ -42,3 +42,19 @@
 ### Steps:
   1. Access the elements
   2. Work with those elements
+
+# ARTICLE READING Understanding The Problem Domain Is The Hardest Part Of Programming
+
+The problem domain seems to be one of the hardest thing in programming
+
+  ## Why are domains hard?
+  
+  1. Understanding the problem doman is the hardest part of programming
+  2. What may make it easier?
+      * Make the problem domain easier
+        
+          > this means cutting out cases and narrowing your focus 
+
+      * Get better at understanding the problem domain
+
+          > take care to truly understand a problem inside and out before you try and solve it with code. 
