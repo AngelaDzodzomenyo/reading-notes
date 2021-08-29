@@ -21,15 +21,15 @@ My reading notes for 102 and 201.
 * [Class: 01 - Introductory HTML and JavaScript](https://angeladzodzomenyo.github.io/reading-notes/201/class-01)
 * [Class: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://angeladzodzomenyo.github.io/reading-notes/201/class-02)
 * [Class: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://angeladzodzomenyo.github.io/reading-notes/201/class-03)
-* Class: 04 - HTML Links, CSS Layout, JS Functions
-* Class: 05 - HTML Images; CSS Color & Text
-* Class: 06 - JS Object Literals; The DOM
-* Class: 07 - HTML Tables; JS Constructor Functions
-* Class: 08 - More CSS Layout
-* Class: 09 - Forms and Events
-* Class: 10 - JS Debugging
-* Class: 11 - Assorted Topics
-* Class: 12 - Docs for the HTML
-* Class: 13 - Local Storage
-* Class: 14a - CSS Transforms, Transitions, and Animations
-   > Class: 14b - What Google Learned About Teams
+* [Class: 04 - HTML Links, CSS Layout, JS Functions](https://angeladzodzomenyo.github.io/reading-notes/201/class-04)
+* [Class: 05 - HTML Images; CSS Color & Text](https://angeladzodzomenyo.github.io/reading-notes/201/class-05)
+* [Class: 06 - JS Object Literals; The DOM](https://angeladzodzomenyo.github.io/reading-notes/201/class-06)
+* [Class: 07 - HTML Tables; JS Constructor Functions](https://angeladzodzomenyo.github.io/reading-notes/201/class-07)
+* [Class: 08 - More CSS Layout](https://angeladzodzomenyo.github.io/reading-notes/201/class-08)
+* [Class: 09 - Forms and Events](https://angeladzodzomenyo.github.io/reading-notes/201/class-09)
+* [Class: 10 - JS Debugging](https://angeladzodzomenyo.github.io/reading-notes/201/class-10)
+* [Class: 11 - Assorted Topics](https://angeladzodzomenyo.github.io/reading-notes/201/class-11)
+* [Class: 12 - Docs for the HTML](https://angeladzodzomenyo.github.io/reading-notes/201/class-12)
+* [Class: 13 - Local Storage](https://angeladzodzomenyo.github.io/reading-notes/201/class-13)
+* [Class: 14a - CSS Transforms, Transitions, and Animations](https://angeladzodzomenyo.github.io/reading-notes/201/class-14a)
+   > [Class: 14b - What Google Learned About Teams](https://angeladzodzomenyo.github.io/reading-notes/201/class-14b)
