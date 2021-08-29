@@ -45,4 +45,6 @@
 -------------
   ## `<cont> ` Chapter 3 
 
-* When a function is created at the top level of a script, then it is in the global scope or global context
+* When a function is created at the top level of a script, then it is in the global scope or global context.
+
+<==[Back](https://angeladzodzomenyo.github.io/reading-notes/)

@@ -15,3 +15,4 @@
 
 3. Pychological safety - teammembers feeling as if they could take risks without being ridiculed
 
+<==[Back](https://angeladzodzomenyo.github.io/reading-notes/)

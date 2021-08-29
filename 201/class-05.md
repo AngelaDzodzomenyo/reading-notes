@@ -74,5 +74,5 @@
     2. lossy
       * cannot do the same here bc data loss is irreversable
 
-
+<==[Back](https://angeladzodzomenyo.github.io/reading-notes/)
 

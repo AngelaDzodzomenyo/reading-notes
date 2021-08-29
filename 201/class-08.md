@@ -35,4 +35,4 @@ Random Facts:
  | saves you from repeatedly writing code | They mostly req. that class names be used in HTML that only controls look of page |
 | They will have been tested across different browser versions | Usually contain more code than your need(*bloat*) |
 
-
+<==[Back](https://angeladzodzomenyo.github.io/reading-notes/)

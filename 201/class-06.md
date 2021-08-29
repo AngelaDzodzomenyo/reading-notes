@@ -58,3 +58,5 @@ The problem domain seems to be one of the hardest thing in programming
       * Get better at understanding the problem domain
 
           > take care to truly understand a problem inside and out before you try and solve it with code. 
+
+<==[Back](https://angeladzodzomenyo.github.io/reading-notes/)          
