@@ -33,3 +33,7 @@ My reading notes for 102 and 201.
 * [Class: 13 - Local Storage](https://angeladzodzomenyo.github.io/reading-notes/201/class-13)
 * [Class: 14a - CSS Transforms, Transitions, and Animations](https://angeladzodzomenyo.github.io/reading-notes/201/class-14a)
    > [Class: 14b - What Google Learned About Teams](https://angeladzodzomenyo.github.io/reading-notes/201/class-14b)
+
+## Code 301 Intermediate Software Development
+* [Class 01](https://angeladzodzomenyo.github.io/reading-notes/301_Intermediate_Software_Development/Class01)
+* [Class 02](https://angeladzodzomenyo.github.io/reading-notes/301_Intermediate_Software_Development/Class02)
