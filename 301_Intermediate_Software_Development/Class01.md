@@ -21,3 +21,5 @@
     * used by passing data from one component to another
 3. What is the flow of props?
     * it is "uni-directional" means it only goes one way and that from parent to child. its read only and should never be change by child components
+
+    [Back](https://angeladzodzomenyo.github.io/reading-notes/)

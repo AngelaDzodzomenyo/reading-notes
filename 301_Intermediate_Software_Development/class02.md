@@ -37,3 +37,5 @@
 4. What are some examples of things that we could store in state?
     * something that might need continueal update bc of user inputs
     * so something inside of a form like a checkbox, select list
+
+    [Back](https://angeladzodzomenyo.github.io/reading-notes/)
