@@ -21,3 +21,5 @@
 2. In your own words, what does the increment function do?
 3. How can you pass a method from a parent component into a child component?
 4. How does the child component invoke a method that was passed to it from a parent component?
+
+[Back](https://angeladzodzomenyo.github.io/reading-notes/)
