@@ -36,5 +36,5 @@ My reading notes for 102 and 201.
 
 ## Code 301 Intermediate Software Development
 * [Class: 01](https://angeladzodzomenyo.github.io/reading-notes/301_Intermediate_Software_Development/Class01)
-* [Class: 02](https://angeladzodzomenyo.github.io/reading-notes/301_Intermediate_Software_Development/Class02)
-* [Class: 03 - Readings: Passing Functions as Props](https://angeladzodzomenyo.github.io/reading-notes/301_Intermediate_Software_Development/Class03)
+* [Class: 02](https://angeladzodzomenyo.github.io/reading-notes/301_Intermediate_Software_Development/class02)
+* [Class: 03 - Readings: Passing Functions as Props](https://angeladzodzomenyo.github.io/reading-notes/301_Intermediate_Software_Development/class03)
