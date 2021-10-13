@@ -4,13 +4,18 @@
 
 1. What does REST stand for?
 
-    * 
+    * Representational State Transfer
+
 2. REST APIs are designed around a ____.
 
-    *
+    * architectual approach to designing web services
+
 3. What is an identifer of a resource? Give an example.
 
-    *
+    * URI. A page, a book, or a dociment
+    [Image](https://danielmiessler.com/images/url-uri-url-miessler-2020.png)
+    All URLs are URIs, but not all URIs are URLs
+
 4. What are the most common HTTP verbs?
 
     *
