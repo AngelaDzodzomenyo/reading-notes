@@ -13,15 +13,19 @@
 3. What is an identifer of a resource? Give an example.
 
     * URI. A page, a book, or a dociment
+
     [Image](https://danielmiessler.com/images/url-uri-url-miessler-2020.png)
-    All URLs are URIs, but not all URIs are URLs
+
+    * All URLs are URIs, but not all URIs are URLs
 
 4. What are the most common HTTP verbs?
 
-    *
+    * GET, POST, PUT, PATCH, DELETE
+
 5. What should the URIs be based on?
 
-    *
+    * g
+
 6. Give an example of a good URI.
 
     *
