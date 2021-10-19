@@ -2,22 +2,44 @@
 
 ## Functional Programming Concepts
 
-What is functional programming?
+1. What is functional programming?
 
-What is a pure function and how do we know if something is a pure function?
+  * A style of building the structure and elements of computer programs 
 
-What are the benefits of a pure function?
+2. What is a pure function and how do we know if something is a pure function?
 
-What is immutability?
+  * A pure function returns the same result if given the same arguments(it is also referred to determininistic). 
 
-What is Referential transparency?
+  * It does not cause any observable side effects 
+
+3. What are the benefits of a pure function?
+
+  * The code is easier to test.
+
+  * No need to mock anything 
+
+4. What is immutability?
+
+  * unchanging over time or unble to be changed. When data is immutable, its state cannot change after it's created.
+
+5. What is Referential transparency?
+
+  * referential transparency = pure functions + immutable data
 
 ## Node JS Tutorial for Beginners #6 - Modules and require()
 
-What is a module?
+1. What is a module?
 
-What does the word ‘require’ do?
+  *
 
-How do we bring another module into the file the we are working in?
+2. What does the word ‘require’ do?
 
-What do we have to do to make a module available?
+  *
+
+3. How do we bring another module into the file the we are working in?
+
+  *
+
+4. What do we have to do to make a module available?
+
+  *
