@@ -30,16 +30,17 @@
 
 1. What is a module?
 
-  *
+  * Split code up into nodule modules. Another javascript file. Call it when needed.
 
 2. What does the word ‘require’ do?
 
-  *
+  * on the global object in Node.js so can use it wherever. 
 
 3. How do we bring another module into the file the we are working in?
 
-  *
+  * require('./');  <----creates a path 
+ 
 
 4. What do we have to do to make a module available?
 
-  *
+  * then need to explicitly say: module.exports = function;
